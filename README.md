@@ -6,8 +6,10 @@
       [self.view addSubview:voiceLight];
 
 2.使用pod在Podfile中添加
-pod 'LHHSysCharge'
-pod 'Masonry'
+
+      pod 'LHHSysCharge'
+      pod 'Masonry'
+
 即可
 在使用的VC中引入头文件 #import "LHVoiceAndLight.h"
 
